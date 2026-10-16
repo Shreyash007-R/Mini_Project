@@ -1,0 +1,20 @@
+{
+  "name": "mini-project-librohub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LibroHub — Modern Library Management System Mini Project",
+  "scripts": {
+    "dev": "npm --prefix demo run dev",
+    "build": "npm --prefix demo run build",
+    "lint": "npm --prefix demo run lint",
+    "preview": "npm --prefix demo run preview"
+  },
+  "keywords": [
+    "library-management-system",
+    "react",
+    "tailwind",
+    "mini-project"
+  ],
+  "author": "",
+  "license": "MIT"
+}

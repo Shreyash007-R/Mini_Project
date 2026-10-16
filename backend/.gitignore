@@ -1,0 +1,40 @@
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+*.cert
+*.crt
+*.pfx
+*.token
+
+# SQLite Database files
+*.db
+*.sqlite
+*.sqlite3
+library.db
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs
+*.log
+logs/
+
